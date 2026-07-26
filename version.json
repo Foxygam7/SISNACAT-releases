@@ -1,6 +1,6 @@
 {
   "version_name": "1.0.0",
-  "version_code": 29,
-  "apk_url": "https://github.com/Foxygam7/SISNACAT-releases/releases/download/v1.0.0+29/app-release.apk",
-  "changelog": "fix(realtime): SSE 406 Accept + alcance claro en panel listinero\n\nDRF rechazaba EventSource (Accept text/event-stream). Se agrega EventStreamRenderer, se mantiene polling a 12s y el panel explica empresa/terminal filtrada.\n\nCo-authored-by: Cursor <cursoragent@cursor.com>"
+  "version_code": 30,
+  "apk_url": "https://github.com/Foxygam7/SISNACAT-releases/releases/download/v1.0.0+30/app-release.apk",
+  "changelog": "fix(ui): hora local 12h AM/PM y auto-refresh reporte DEV\n\nEl historial fiscal mostraba UTC (04:20) en vez de Caracas (12:20 AM). Formato unificado AM/PM en app; panel listinero y reporte web también. El reporte de operaciones en web se actualiza cada 15s.\n\nCo-authored-by: Cursor <cursoragent@cursor.com>"
 }
