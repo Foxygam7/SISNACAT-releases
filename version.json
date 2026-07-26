@@ -1,6 +1,6 @@
 {
   "version_name": "1.0.0",
-  "version_code": 34,
-  "apk_url": "https://github.com/Foxygam7/SISNACAT-releases/releases/download/v1.0.0+34/app-release.apk",
-  "changelog": "fix(app): evita cache CDN en version.json del OTA\n\nCo-authored-by: Cursor <cursoragent@cursor.com>"
+  "version_code": 35,
+  "apk_url": "https://github.com/Foxygam7/SISNACAT-releases/releases/download/v1.0.0+35/app-release.apk",
+  "changelog": "feat(app): login biométrico tras el primer acceso del día con clave\n\nCo-authored-by: Cursor <cursoragent@cursor.com>"
 }
