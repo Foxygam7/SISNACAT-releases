@@ -1,6 +1,6 @@
 {
   "version_name": "1.0.0",
-  "version_code": 39,
-  "apk_url": "https://github.com/Foxygam7/SISNACAT-releases/releases/download/v1.0.0+39/app-release.apk",
-  "changelog": "fix(web): sincronización panel listinero — excluir checkout y endurecer SSE\n\nEl panel seguía mostrando unidades despachadas tras el evento; se excluyen\ndel listado. SSE envía ping real cada 15s y la UI muestra estado En vivo.\n\nCo-authored-by: Cursor <cursoragent@cursor.com>"
+  "version_code": 40,
+  "apk_url": "https://github.com/Foxygam7/SISNACAT-releases/releases/download/v1.0.0+40/app-release.apk",
+  "changelog": "feat(web): tiempo real en paneles INTT/DEV (dashboard y reportes)\n\nDEV e INTT nacional/regional escuchan sisnacat:rt:*; dashboard,\noperaciones, listines e infracciones se refrescan por SSE con fallback.\n\nCo-authored-by: Cursor <cursoragent@cursor.com>"
 }
