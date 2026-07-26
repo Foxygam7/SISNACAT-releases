@@ -2,5 +2,5 @@
   "version_name": "1.0.0",
   "version_code": 32,
   "apk_url": "https://github.com/Foxygam7/SISNACAT-releases/releases/download/v1.0.0+32/app-release.apk",
-  "changelog": "fix(app): check-out full-width cards y OTA que abre instalador tras descarga\n\nCo-authored-by: Cursor <cursoragent@cursor.com>"
+  "changelog": "fix(app): OTA al arrancar con o sin sesion y WorkManager one-off\n\nCo-authored-by: Cursor <cursoragent@cursor.com>"
 }
