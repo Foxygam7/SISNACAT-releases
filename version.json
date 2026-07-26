@@ -2,5 +2,5 @@
   "version_name": "1.0.0",
   "version_code": 31,
   "apk_url": "https://github.com/Foxygam7/SISNACAT-releases/releases/download/v1.0.0+31/app-release.apk",
-  "changelog": "fix(app): historial fiscal usa hora Caracas del API (v1.0.0+30)\n\nEl listinero ya veía hora del backend; el fiscal formateaba UTC en el APK. Ahora operaciones incluye fecha_hora_local y el historial la muestra. Bump APK para OTA.\n\nCo-authored-by: Cursor <cursoragent@cursor.com>"
+  "changelog": "fix(dashboard): Unidades en Andén excluye retiros y check-outs\n\nEl contador solo excluía check-out; una unidad retirada seguía contando. Ahora cuenta unidades distintas aún en andén (sin retirada ni checkout del día).\n\nCo-authored-by: Cursor <cursoragent@cursor.com>"
 }
