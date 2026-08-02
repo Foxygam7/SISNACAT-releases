@@ -1,6 +1,6 @@
 {
   "version_name": "1.0.0",
-  "version_code": 52,
-  "apk_url": "https://github.com/Foxygam7/SISNACAT-releases/releases/download/v1.0.0+52/app-release.apk",
-  "changelog": "feat(app): check-in con QR, semaforo para roles mayores y sync offline\n\nCheck-in escanea como check-out; Escanear QR queda para DEV/INTT altos y EMP_PRINCIPAL. Date pickers en espanol. Sync manual fuerza reintentos, trata codigo duplicado y permite descartar pendientes atascados."
+  "version_code": 53,
+  "apk_url": "https://github.com/Foxygam7/SISNACAT-releases/releases/download/v1.0.0+53/app-release.apk",
+  "changelog": "fix(app): OTA ignora cache vieja de jsDelivr y da feedback al buscar\n\nConsulta raw + CDN y toma el version_code mas alto. Buscar actualizacion siempre informa. CI purga jsDelivr tras cada release."
 }
