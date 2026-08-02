@@ -1,6 +1,6 @@
 {
   "version_name": "1.0.0",
-  "version_code": 57,
-  "apk_url": "https://github.com/Foxygam7/SISNACAT-releases/releases/download/v1.0.0+57/app-release.apk",
-  "changelog": "fix(app): check-out offline no llama al servidor al buscar codigo\n\nUsa check-in/listin local o captura manual; la API solo precarga si hay conexion."
+  "version_code": 58,
+  "apk_url": "https://github.com/Foxygam7/SISNACAT-releases/releases/download/v1.0.0+58/app-release.apk",
+  "changelog": "style(app): selector de chofer en check-out offline sin RadioListTile deprecado"
 }
