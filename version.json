@@ -1,6 +1,6 @@
 {
   "version_name": "1.0.0",
-  "version_code": 58,
-  "apk_url": "https://github.com/Foxygam7/SISNACAT-releases/releases/download/v1.0.0+58/app-release.apk",
-  "changelog": "style(app): selector de chofer en check-out offline sin RadioListTile deprecado"
+  "version_code": 59,
+  "apk_url": "https://github.com/Foxygam7/SISNACAT-releases/releases/download/v1.0.0+59/app-release.apk",
+  "changelog": "fix(ci): corrige lint del test de login que rompia flutter analyze"
 }
