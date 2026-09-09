@@ -1,6 +1,7 @@
 {
   "version_name": "1.0.0",
-  "version_code": 74,
-  "apk_url": "https://github.com/Foxygam7/SISNACAT-releases/releases/download/v1.0.0+74/app-release.apk",
-  "changelog": "fix(app): tolerar cold start de Render en sync offline\n\nSube timeouts HTTP y despierta el servidor con ping antes de sincronizar la cola.\n\nCo-authored-by: Cursor <cursoragent@cursor.com>"
+  "version_code": 75,
+  "apk_url": "https://github.com/Foxygam7/SISNACAT-releases/releases/download/v1.0.0+75/app-release.apk",
+  "changelog": "Merge branch 'main' of https://github.com/Foxygam7/SISNACAT",
+  "sha256": "c21397d075a27e6bc61bc1b3316a5b91bee63c7fb4d8951558b7c611cd4c38db"
 }
