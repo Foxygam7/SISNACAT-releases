@@ -1,7 +1,7 @@
 {
   "version_name": "1.0.0",
-  "version_code": 77,
-  "apk_url": "https://github.com/Foxygam7/SISNACAT-releases/releases/download/v1.0.0+77/app-release.apk",
-  "changelog": "Merge branch 'main' of https://github.com/Foxygam7/SISNACAT",
-  "sha256": "12737d6a894dc3a1b84f8853e96e88df356964b4476b9107468fc3b9720d2c81"
+  "version_code": 78,
+  "apk_url": "https://github.com/Foxygam7/SISNACAT-releases/releases/download/v1.0.0+78/app-release.apk",
+  "changelog": "Renueva la identidad visual de la web y la app.\n\nCo-authored-by: Cursor <cursoragent@cursor.com>",
+  "sha256": "4e1074935cc8c8877b6d48eccd19d4902afb2cd2d5785e915081100a5487b92d"
 }
