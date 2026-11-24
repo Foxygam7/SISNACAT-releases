@@ -1,7 +1,7 @@
 {
   "version_name": "1.0.0",
-  "version_code": 83,
-  "apk_url": "https://github.com/Foxygam7/SISNACAT-releases/releases/download/v1.0.0+83/app-release.apk",
-  "changelog": "La app móvil usa el mismo color de marca que el panel.\n\nCo-authored-by: Cursor <cursoragent@cursor.com>",
-  "sha256": "e38c37d104f70a0b4f502fa4d2bf160e232cee1147346e3f3c28e4c3d9f38f3b"
+  "version_code": 84,
+  "apk_url": "https://github.com/Foxygam7/SISNACAT-releases/releases/download/v1.0.0+84/app-release.apk",
+  "changelog": "Cada unidad puede guardar el dibujo de sus puestos.\n\nCo-authored-by: Cursor <cursoragent@cursor.com>",
+  "sha256": "d9798fb1cbdd3607c31bae9cb5ab85f0ee22840e5489d73d98ce773b9c1f6d5e"
 }
