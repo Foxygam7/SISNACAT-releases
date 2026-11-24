@@ -1,7 +1,7 @@
 {
   "version_name": "1.0.0",
-  "version_code": 84,
-  "apk_url": "https://github.com/Foxygam7/SISNACAT-releases/releases/download/v1.0.0+84/app-release.apk",
-  "changelog": "Cada unidad puede guardar el dibujo de sus puestos.\n\nCo-authored-by: Cursor <cursoragent@cursor.com>",
-  "sha256": "d9798fb1cbdd3607c31bae9cb5ab85f0ee22840e5489d73d98ce773b9c1f6d5e"
+  "version_code": 85,
+  "apk_url": "https://github.com/Foxygam7/SISNACAT-releases/releases/download/v1.0.0+85/app-release.apk",
+  "changelog": "El puesto puede llamarse 12 o 1A, y así queda en el listín.\n\nCo-authored-by: Cursor <cursoragent@cursor.com>",
+  "sha256": "5a8189269997d047d001d37b269bee2dfa4fdb38efe9dc01e1e185888acf53ad"
 }
