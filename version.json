@@ -1,7 +1,7 @@
 {
   "version_name": "1.0.0",
-  "version_code": 89,
-  "apk_url": "https://github.com/Foxygam7/SISNACAT-releases/releases/download/v1.0.0+89/app-release.apk",
-  "changelog": "El croquis numera A01 y A02 sin saltar escalera, baño ni pasillo.\n\nCo-authored-by: Cursor <cursoragent@cursor.com>",
-  "sha256": "1d1a91d82565f151c9271c06858575f53e3f5921f2836e5424b9dbe50420c5fb"
+  "version_code": 90,
+  "apk_url": "https://github.com/Foxygam7/SISNACAT-releases/releases/download/v1.0.0+90/app-release.apk",
+  "changelog": "Cambiar la clave ya no tumba el panel, y el fiscal no carga pasajeros.\n\nCo-authored-by: Cursor <cursoragent@cursor.com>",
+  "sha256": "a4f9a8559d135d3c27d459a26e54d862ef4cc43b810af2c5bd2ebc5b15c578c5"
 }
