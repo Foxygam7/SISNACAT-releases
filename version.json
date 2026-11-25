@@ -1,7 +1,7 @@
 {
   "version_name": "1.0.0",
-  "version_code": 94,
-  "apk_url": "https://github.com/Foxygam7/SISNACAT-releases/releases/download/v1.0.0+94/app-release.apk",
-  "changelog": "La geocerca se prende desde el usuario dueño y, apagada, no frena las pruebas.\n\nCo-authored-by: Cursor <cursoragent@cursor.com>",
-  "sha256": "800fd35947cc984fab396c594c4ec313dd1ec64c88eb1eb24a798a9edf853558"
+  "version_code": 95,
+  "apk_url": "https://github.com/Foxygam7/SISNACAT-releases/releases/download/v1.0.0+95/app-release.apk",
+  "changelog": "La llave que firma los token ya no se guarda en la base.\n\nCo-authored-by: Cursor <cursoragent@cursor.com>",
+  "sha256": "e0eefeb0c4820c7c553c9f29dd48b71d3d139ded75f9c52235bedf36bb6ae5c4"
 }
