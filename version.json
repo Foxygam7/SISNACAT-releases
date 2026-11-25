@@ -1,7 +1,7 @@
 {
   "version_name": "1.0.0",
-  "version_code": 86,
-  "apk_url": "https://github.com/Foxygam7/SISNACAT-releases/releases/download/v1.0.0+86/app-release.apk",
-  "changelog": "La empresa principal corrige solo la planilla de asientos de sus placas.\n\nCo-authored-by: Cursor <cursoragent@cursor.com>",
-  "sha256": "3351f32e713b79bc03e04b6f5283eb731e01ce810a7297dbd6d799af7be9e368"
+  "version_code": 87,
+  "apk_url": "https://github.com/Foxygam7/SISNACAT-releases/releases/download/v1.0.0+87/app-release.apk",
+  "changelog": "El despacho en línea sale con el segundo escaneo si el listín está cerrado.\n\nCo-authored-by: Cursor <cursoragent@cursor.com>",
+  "sha256": "31efefedb98051bd112d06a29c4f2ed48d1c80a10ccf1a48e70b9eb92a9253b5"
 }
