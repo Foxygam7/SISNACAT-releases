@@ -1,7 +1,7 @@
 {
   "version_name": "1.0.0",
-  "version_code": 100,
-  "apk_url": "https://github.com/Foxygam7/SISNACAT-releases/releases/download/v1.0.0+100/app-release.apk",
-  "changelog": "El ingreso deja de usar la pieza de preferencias que no se registra en Android.\n\nCo-authored-by: Cursor <cursoragent@cursor.com>",
-  "sha256": "7a8353dffa595808796983e980be5452eaa35044df9f53ec4d03b9ffb170eefc"
+  "version_code": 101,
+  "apk_url": "https://github.com/Foxygam7/SISNACAT-releases/releases/download/v1.0.0+101/app-release.apk",
+  "changelog": "La sesión vieja del navegador ya no tumba el panel con un 500.\n\nCo-authored-by: Cursor <cursoragent@cursor.com>",
+  "sha256": "21a0d62ae750b44b94566fd4e3ccd393f64c69f376161cb630753531c101af24"
 }
