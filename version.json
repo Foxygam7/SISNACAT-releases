@@ -1,7 +1,7 @@
 {
   "version_name": "1.0.0",
-  "version_code": 101,
-  "apk_url": "https://github.com/Foxygam7/SISNACAT-releases/releases/download/v1.0.0+101/app-release.apk",
-  "changelog": "La sesión vieja del navegador ya no tumba el panel con un 500.\n\nCo-authored-by: Cursor <cursoragent@cursor.com>",
-  "sha256": "21a0d62ae750b44b94566fd4e3ccd393f64c69f376161cb630753531c101af24"
+  "version_code": 102,
+  "apk_url": "https://github.com/Foxygam7/SISNACAT-releases/releases/download/v1.0.0+102/app-release.apk",
+  "changelog": "El inicio del fiscal abre por el check-in y deja el resto agrupado.\n\nCo-authored-by: Cursor <cursoragent@cursor.com>",
+  "sha256": "245b44a0a2bbba21542803011fcdc15ab84214064a078efff241e644ae2e6da5"
 }
