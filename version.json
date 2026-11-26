@@ -1,7 +1,7 @@
 {
   "version_name": "1.0.0",
-  "version_code": 102,
-  "apk_url": "https://github.com/Foxygam7/SISNACAT-releases/releases/download/v1.0.0+102/app-release.apk",
-  "changelog": "El inicio del fiscal abre por el check-in y deja el resto agrupado.\n\nCo-authored-by: Cursor <cursoragent@cursor.com>",
-  "sha256": "245b44a0a2bbba21542803011fcdc15ab84214064a078efff241e644ae2e6da5"
+  "version_code": 103,
+  "apk_url": "https://github.com/Foxygam7/SISNACAT-releases/releases/download/v1.0.0+103/app-release.apk",
+  "changelog": "El equipo DEV abre por el sistema, el soporte por las operaciones y su tesorería por las recargas.\n\nCo-authored-by: Cursor <cursoragent@cursor.com>",
+  "sha256": "72fd1a995e70fcd4ef6965048656636d4ad0fdf5a4280306acfb854ac5da598e"
 }
