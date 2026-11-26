@@ -1,7 +1,7 @@
 {
   "version_name": "1.0.0",
-  "version_code": 98,
-  "apk_url": "https://github.com/Foxygam7/SISNACAT-releases/releases/download/v1.0.0+98/app-release.apk",
-  "changelog": "El armado del APK ya no se cae antes de firmar.\n\nCo-authored-by: Cursor <cursoragent@cursor.com>",
-  "sha256": "f6208e1ccffa7949698eac0efb7f7741ada3dc5493ee882e82df3a345d8faf90"
+  "version_code": 99,
+  "apk_url": "https://github.com/Foxygam7/SISNACAT-releases/releases/download/v1.0.0+99/app-release.apk",
+  "changelog": "El ingreso del teléfono muestra el aviso del servidor cuando no es la clave.\n\nCo-authored-by: Cursor <cursoragent@cursor.com>",
+  "sha256": "871be00df9cf4bc5e7a961a2760f2ed3fdb99342f42b68116692f3a3880af9be"
 }
