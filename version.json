@@ -1,7 +1,7 @@
 {
   "version_name": "1.0.0",
-  "version_code": 104,
-  "apk_url": "https://github.com/Foxygam7/SISNACAT-releases/releases/download/v1.0.0+104/app-release.apk",
-  "changelog": "Al crear usuarios, Control total ve tesorería de DEV, del INTT y de la empresa.\n\nCo-authored-by: Cursor <cursoragent@cursor.com>",
-  "sha256": "43b071963d0a577200e1e524e18f634128157cf3b1c70b1303aa19a31a29f332"
+  "version_code": 105,
+  "apk_url": "https://github.com/Foxygam7/SISNACAT-releases/releases/download/v1.0.0+105/app-release.apk",
+  "changelog": "El panel abre una jornada de pruebas y reparte a cada persona lo de su cargo.\n\nCo-authored-by: Cursor <cursoragent@cursor.com>",
+  "sha256": "61a9895794422e7ea79ec24245e743e83cfd0283de4c6e6cabf5ce1294c85dc9"
 }
